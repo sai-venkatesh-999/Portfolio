@@ -27,8 +27,8 @@ function Projects() {
               isBlog={false}
               title="Bankist"
               description="A dynamic banking application where users can log in to view balances, track transactions, transfer money, request loans, and monitor financial activity in real time with a clean, intuitive UI."
-              ghLink="https://github.com/sai-venkatesh-999/Bankist"
-              demoLink="https://chatify-49.web.app/"
+              ghLink="https://github.com/sai-venkatesh-999/Banking_Application"
+              demoLink="https://banking-application-dusky.vercel.app/"
             />
           </Col>
 
@@ -39,7 +39,7 @@ function Projects() {
               title="Blood Donation System"
               description="A full-stack web application that connects blood donors with recipients through an OTP-based sign-up/login system. Includes request management, donor history tracking, live chat and a user-friendly dashboard."
               ghLink="https://github.com/sai-venkatesh-999/BloodDonation"
-              demoLink="https://blogs.soumya-jit.tech/"
+              demoLink="https://blood-donation-lovat.vercel.app/login"
             />
           </Col>
 
@@ -61,7 +61,7 @@ function Projects() {
               title="Restaurent Reservation"
               description="Built a full-stack MERN application for seamless online food ordering and table reservations. Integrated secure MongoDB data storage, real-time booking status, and a responsive, user-friendly interface for customers and administrators."
               ghLink="https://github.com/sai-venkatesh-999/restaurentTableBooking"
-              demoLink="https://restaurant-order-table-booking-syst.vercel.app/"
+              demoLink="https://restaurent-table-booking-steel.vercel.app/"
             />
           </Col>
 

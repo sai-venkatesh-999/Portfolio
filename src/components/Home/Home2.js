@@ -15,16 +15,15 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I fell in love with programming and am constantly learning and improving my skills.
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> Html,Css, Javascript and React. </b>
+                <b className="purple"> HTML,CSS, JavaScript and React. </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              My fields of Interest are building new &nbsp;
               <i>
                 <b className="purple">Web Technologies </b>
               </i>
@@ -35,7 +34,7 @@ function Home2() {
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  Modern Javascript Libraries and Frameworks
                 </b>
               </i>
               &nbsp; like
@@ -79,7 +78,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/sai_n_999?igsh=NmNjYTZzN2Y1Y3Y="
+                  href="https://www.instagram.com/sai_n_999/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
